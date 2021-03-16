@@ -16,6 +16,12 @@ Partner data validation for Missouri, 2018. Data Partners: VEST.
   - Accessed: 03/02/21
   - Note:
 
+- File: MO Precinct-Level Election Results
+  - Online: [Open Elections Github Link](https://github.com/openelections/openelections-data-mo/tree/master/2018)
+  - AWS: `20181106__mo__general__precinct.csv`
+  - Accessed: 03/03/21
+  - Note:
+
 - File: U.S. Census Bureau's 2020 Redistricting Data Program Phase 2 release
   - Online: [Missouri Page](https://www.census.gov/geo/partnerships/pvs/partnership19v2/st29_mo.html)
   - AWS: `2020_Phase_2`
