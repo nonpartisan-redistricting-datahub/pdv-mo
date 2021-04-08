@@ -6,7 +6,7 @@ Partner data validation for Missouri, 2018. Data Partners: VEST.
 **Raw from source:**
 - File: VEST MO 18 data file
   - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=4366212&version=33.0)
-  - AWS: `ga_2016.zip`
+  - AWS: `mo_2018.zip`
   - Accessed: 03/02/21
   - Note:
 
