@@ -35,7 +35,7 @@ Partner data validation for Missouri, 2018. Data Partners: VEST.
   - Note:  Monroe County is the only county from this source.
 
 - File: 2020 Census VTD release
-  - Online: [Census Link](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Voting+Districts)
+  - Online: [Census Link](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
   - AWS: `2020_VTD`
   - Accessed: 03/03/21
   - Note:  Platte County is the only county from this source.
