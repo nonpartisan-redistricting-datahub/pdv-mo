@@ -35,10 +35,10 @@ Partner data validation for Missouri, 2016. Data Partners: VEST.
   - Note:  Monroe County is the only county from this source.
 
 - File: 2020 Census VTD release
-  - Online: [Census Link](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Voting+Districts)
+  - Online: [Census Link](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
   - AWS: `2020_VTD`
   - Accessed: 03/03/21
-  - Note:  Platte County is the only county from this source.
+  - Note:  Downloaded the entire file for MO and filtered downn to Platte County, which is the only county from this source.
 
 - File: Camden County Precincts (tif)
   - Online: [Link](https://camdengis.integritygis.com/H5/Index.html?viewer=camden)
