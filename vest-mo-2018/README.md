@@ -38,7 +38,7 @@ Partner data validation for Missouri, 2018. Data Partners: VEST.
   - Online: [Census Link](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
   - AWS: `2020_VTD`
   - Accessed: 03/03/21
-  - Note:  Platte County is the only county from this source.
+  - Note:  Downloaded the entire file for MO and filtered downn to Platte County, which is the only county from this source.
 
 - File: Camden County Precincts (tif)
   - Online: [Link](https://camdengis.integritygis.com/H5/Index.html?viewer=camden)
