@@ -33,3 +33,57 @@ Partner data validation for Missouri, 2018. Data Partners: VEST.
   - AWS: `2010_VTD`
   - Accessed: 03/03/21
   - Note:  Monroe County is the only county from this source.
+
+- File: 2020 Census VTD release
+  - Online: [Census Link](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2010&layergroup=Voting+Districts)
+  - AWS: `2020_VTD`
+  - Accessed: 03/03/21
+  - Note:  Platte County is the only county from this source.
+
+- File: Camden County Precincts (tif)
+  - Online: [Link](https://camdengis.integritygis.com/H5/Index.html?viewer=camden)
+  - AWS: `Camden`
+  - Accessed: 03/09/21
+  - Note: Unable to load this file in a reasonable amount of time due to the format  
+
+- File: Cooper County Precincts (tif)
+  - Online: [Link](https://coopergis.integritygis.com/H5/Index.html?viewer=cooper)
+  - AWS: `Cooper`
+  - Accessed: 03/09/21
+  - Note: Unable to load this file in a reasonable amount of time due to the format  
+
+- File: Marion County Precincts (tif)
+  - Online: [Link](https://mariongis.integritygis.com/H5/Index.html?viewer=marion_public)
+  - AWS: `Marion`
+  - Accessed: 03/09/21
+  - Note: Unable to load this file in a reasonable amount of time due to the format 
+
+- File: Lafayette County Precincts (tif)
+  - Online: [Link](https://lafayettegis.integritygis.com/H5/Index.html?viewer=lafayette)
+  - AWS: `Lafayette`
+  - Accessed: 03/09/21
+  - Note: Unable to load this file in a reasonable amount of time due to the format 
+
+- File: Laclede County Precincts (tif)
+  - Online: [Link](https://lacledegis.integritygis.com/H5/Index.html?viewer=laclede)
+  - AWS: `Laclede`
+  - Accessed: 03/09/21
+  - Note: Unable to load this file in a reasonable amount of time due to the format
+
+- File: Bates County Precincts (tif)
+  - Online: [Link](https://batesgis.integritygis.com/H5/Index.html?viewer=bates)
+  - AWS: `Bates`
+  - Accessed: 03/09/21
+  - Note: Unable to load this file in a reasonable amount of time due to the format
+
+- File: Audrain County Precincts (tif)
+  - Online: [Link](https://audraingis.integritygis.com/H5/Index.html?viewer=audrain)
+  - AWS: `Audrain`
+  - Accessed: 03/03/21
+  - Note: Unable to load this file in a reasonable amount of time due to the format
+
+- File: Jasper County Precincts (shapefile)
+  - Online: [Link](https://jaspercountymogisintiatives-jcmo.hub.arcgis.com/datasets/voting-precincts-2020)
+  - AWS: `Jasper`
+  - Accessed: 03/09/21
+  - Note: Able to load this file
