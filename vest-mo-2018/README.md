@@ -1,4 +1,4 @@
-# pdv-mo  
+# vest-mo-2018
 
 Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2018-missouri-precinct-and-election-results/). 
 
