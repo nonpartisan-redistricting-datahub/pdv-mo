@@ -18,3 +18,9 @@ RDH's partner data validation for VEST's 2016 MO file. VEST's raw file is availa
 
 View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-missouri-precinct-and-election-results/). (still in progress as of 5/18/2021)
 
+## pgp-mo
+
+RDH's partner data validation for PGP's MO file. PGP's raw file is available [here](https://gerrymander.princeton.edu/reforms/MO).
+
+View the final report [here](https://redistrictingdatahub.org/dataset/pgp-missouri-2016-precincts-and-election-results/). 
+
