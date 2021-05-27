@@ -16,7 +16,7 @@ View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-
 
 RDH's partner data validation for VEST's 2016 MO file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4366198&version=56.0).
 
-View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-missouri-precinct-and-election-results/). (still in progress as of 5/18/2021)
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-missouri-precinct-and-election-results/). 
 
 ## pgp-mo
 
